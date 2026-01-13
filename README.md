@@ -1,4 +1,4 @@
-# Introductory Options Hackathon — Options Pricing & Risk (IIT Guwahati)
+# Introductory Options Hackathon(IIT Guwahati)
 
 ## Overview
 This repository contains my submission for the **Introductory Options Hackathon** (IIT Guwahati).
